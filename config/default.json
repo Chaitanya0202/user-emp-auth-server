@@ -1,0 +1,6 @@
+
+{
+    "jwtSecret": "your_jwt_secret_key",
+    "mongoURI": "mongodb://localhost:27017/employee_management"
+  }
+  
